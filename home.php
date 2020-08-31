@@ -68,7 +68,7 @@
               </li>
             </ul>
           </li>
-          <li class="drop-down"><a href="#contact">Hi, Fisikawan</a>
+          <li class="drop-down"><a href="#">Hi, Fisikawan</a>
             <ul>
               <li><a href="profile.php">Profile</a></li>
               <li><a href="#">Log out</a></li>
