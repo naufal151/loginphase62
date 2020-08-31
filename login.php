@@ -30,7 +30,7 @@
 <body>
 
 
-	<div class="container-contact100">
+	<div class="container-contact100" style="background: linear-gradient(90deg, #6f4a8e, #221f3b, #050505, #ebebeb)">
 		<div class="contact100-map" id="google_map" data-map-x="40.722047" data-map-y="-73.986422" data-pin="images/icons/map-marker.png" data-scrollwhell="0" data-draggable="1"></div>
 
 		<div class="wrap-contact100">
