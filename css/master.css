@@ -114,3 +114,18 @@ body {
   0% {background-position: 0%; }
   100% {background-position: 400%; }
 }
+
+@media (max-aspect-ratio: 16/9) {
+  .container {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-aspect-ratio: 16/9) {
+  .container {
+    width: auto;
+    height: 100%;
+  }
+}
+
