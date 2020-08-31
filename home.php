@@ -70,7 +70,12 @@
 
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#pricing">Pricing</a></li>
-          <li><a href="#contact">Contact</a></li>
+          <li class="drop-down"><a href="#contact">Contact</a>
+            <ul>
+              <li><a href="#">Profile</a></li>
+              <li><a href="#">Log out</a></li>
+            </ul>
+          </li>
 
         </ul>
       </nav>
