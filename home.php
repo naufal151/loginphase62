@@ -140,12 +140,12 @@
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="200">
               <i class="bx bx-images"></i>
-              <h4>Aut occaecati</h4>
+              <h4>Phi</h4>
               <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
             </div>
             <div class="icon-box mt-5" data-aos="fade-up" data-aos-delay="300">
               <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
+              <h4>Glitch Effect</h4>
               <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
             </div>
           </div>
