@@ -40,9 +40,11 @@
       <form action="forms/contact.php" method="post" role="form" class="php-email-form" data-aos="fade-left">
         <div class="form-row">
           <div class="form-group">
+            <label>Upload Profile Pic</label>
             <input type="file" class="form-control" name="subject" value="Profile Pic"id="subject" placeholder="Upload Profile Photo" data-rule="minlen:4" data-msg="Please upload your image" />
             <div class="validate"></div>
           </div>
+          <label>Update your profile data</label>
           <div class="col-md-6 form-group">
             <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
             <div class="validate"></div>
